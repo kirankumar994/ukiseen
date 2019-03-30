@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /administrator
+
+Sitemap: http://ukiseen.org/sitemap.xml
